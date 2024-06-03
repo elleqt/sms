@@ -7,9 +7,9 @@ package tpdu
 import (
 	"encoding/binary"
 
-	"github.com/warthog618/sms/encoding/gsm7"
-	"github.com/warthog618/sms/encoding/gsm7/charset"
-	"github.com/warthog618/sms/encoding/ucs2"
+	"github.com/elleqt/sms/encoding/gsm7"
+	"github.com/elleqt/sms/encoding/gsm7/charset"
+	"github.com/elleqt/sms/encoding/ucs2"
 )
 
 // UserData represents the User Data field as defined in 3GPP TS 23.040 Section

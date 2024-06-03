@@ -5,8 +5,8 @@
 package tpdu
 
 import (
-	"github.com/warthog618/sms/encoding/gsm7"
-	"github.com/warthog618/sms/encoding/semioctet"
+	"github.com/elleqt/sms/encoding/gsm7"
+	"github.com/elleqt/sms/encoding/semioctet"
 )
 
 // Address represents a phone number.

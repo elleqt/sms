@@ -7,7 +7,7 @@ package tpdu
 import (
 	"time"
 
-	"github.com/warthog618/sms/encoding/bcd"
+	"github.com/elleqt/sms/encoding/bcd"
 )
 
 // ValidityPeriod represents the validity period as defined in 3GPP TS 34.040

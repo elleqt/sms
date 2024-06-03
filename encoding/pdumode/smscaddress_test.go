@@ -7,10 +7,10 @@ package pdumode_test
 import (
 	"testing"
 
+	"github.com/elleqt/sms/encoding/pdumode"
+	"github.com/elleqt/sms/encoding/semioctet"
+	"github.com/elleqt/sms/encoding/tpdu"
 	"github.com/stretchr/testify/assert"
-	"github.com/warthog618/sms/encoding/pdumode"
-	"github.com/warthog618/sms/encoding/semioctet"
-	"github.com/warthog618/sms/encoding/tpdu"
 )
 
 func TestSMSCAddressMarshalBinary(t *testing.T) {

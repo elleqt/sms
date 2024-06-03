@@ -7,8 +7,8 @@ package gsm7_test
 import (
 	"testing"
 
+	"github.com/elleqt/sms/encoding/gsm7"
 	"github.com/stretchr/testify/assert"
-	"github.com/warthog618/sms/encoding/gsm7"
 )
 
 type testPattern struct {

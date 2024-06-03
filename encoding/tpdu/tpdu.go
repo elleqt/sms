@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/warthog618/sms/encoding/gsm7"
+	"github.com/elleqt/sms/encoding/gsm7"
 )
 
 // TPDU represents all SMS TPDUs.

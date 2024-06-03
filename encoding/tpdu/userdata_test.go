@@ -8,11 +8,11 @@ package tpdu_test
 import (
 	"testing"
 
+	"github.com/elleqt/sms/encoding/gsm7/charset"
+	"github.com/elleqt/sms/encoding/tpdu"
+	"github.com/elleqt/sms/encoding/ucs2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/warthog618/sms/encoding/gsm7/charset"
-	"github.com/warthog618/sms/encoding/tpdu"
-	"github.com/warthog618/sms/encoding/ucs2"
 )
 
 func TestUserDataHeaderMarshalBinary(t *testing.T) {

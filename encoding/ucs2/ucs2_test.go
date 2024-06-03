@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/elleqt/sms/encoding/ucs2"
 	"github.com/stretchr/testify/assert"
-	"github.com/warthog618/sms/encoding/ucs2"
 )
 
 type decodePattern struct {

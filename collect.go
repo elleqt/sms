@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/warthog618/sms/encoding/tpdu"
+	"github.com/elleqt/sms/encoding/tpdu"
 )
 
 // Collector contains reassembly pipes that buffer concatenated TPDUs until a

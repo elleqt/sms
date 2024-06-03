@@ -1,4 +1,4 @@
-module github.com/warthog618/sms
+module github.com/elleqt/sms
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

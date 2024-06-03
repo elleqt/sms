@@ -4,7 +4,7 @@
 
 package sms
 
-import "github.com/warthog618/sms/encoding/tpdu"
+import "github.com/elleqt/sms/encoding/tpdu"
 
 // EncoderOption is an optional mutator for the Encoder.
 type EncoderOption interface {

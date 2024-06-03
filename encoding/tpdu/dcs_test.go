@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/elleqt/sms/encoding/tpdu"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/warthog618/sms/encoding/tpdu"
 )
 
 type dcsAlphabetPattern struct {

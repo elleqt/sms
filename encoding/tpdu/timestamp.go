@@ -7,7 +7,7 @@ package tpdu
 import (
 	"time"
 
-	"github.com/warthog618/sms/encoding/bcd"
+	"github.com/elleqt/sms/encoding/bcd"
 )
 
 // Timestamp represents a SCTS timestamp, as defined in 3GPP TS 23.040 Section

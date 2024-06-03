@@ -17,8 +17,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/warthog618/sms"
-	"github.com/warthog618/sms/encoding/tpdu"
+	"github.com/elleqt/sms"
+	"github.com/elleqt/sms/encoding/tpdu"
 )
 
 func main() {
